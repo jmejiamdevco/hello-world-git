@@ -84,3 +84,11 @@ export  $initHighlight;
 | ------ | -------- | --------- |
 | Maxi | burgos | 123456 |
 | Tompson | Tomas | 5432 |
+
+# Citas
+Esto es un texto referente a una cita que estará abajo
+> Esto es una cita
+
+Este es otro texto que no se relaciona con la anterior
+> Esto es otra cita
+
